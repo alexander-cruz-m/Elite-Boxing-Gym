@@ -49,11 +49,11 @@ This project helped strengthen my skills in:
 
 ## Live Demo
 
-https://acmalexamder05-web.github.io/Elite-Boxing-Gym/
+https://alexander-cruz-m.github.io/Elite-Boxing-Gym/
 
 ## Repository
 
-https://github.com/acmalexamder05-web/Elite-Boxing-Gym
+https://alexander-cruz-m.github.io/Elite-Boxing-Gym/
 
 ---
 
